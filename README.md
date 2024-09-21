@@ -78,3 +78,4 @@ This project is built with [Vuetify](https://vuetifyjs.com/en/), a UI Library wi
 
 Copyright (c) 2016-present Vuetify, LLC
 # 3-column-preview-card-component-FM-challenge-10
+# 3-column-preview-card-component-FM-challenge-10
